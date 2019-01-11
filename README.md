@@ -11,7 +11,7 @@ There are three different difficulty modes (worlds):
 - Expert: 16 x 30 tiles with 99 mines. The AI agent can solve it with 30.3%
 The success rates are determined by testing with 1000 random boards for each difficulty.
 
-<img src="/images/image.jpg" width="80%">
+<img src="/images/image.JPG" width="80%">
 
 ## How it works
 
