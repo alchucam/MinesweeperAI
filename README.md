@@ -4,13 +4,14 @@ AI agent that solves classic Minesweeper game.
 
 ## Description
 
-This is a school project about AI (Artificial Intelligence). 
+This is a school project about AI (Artificial Intelligence).
 There are three different difficulty modes (worlds):
 - Beginner: 8 x 8 tiles with 10 mines. The AI agent can solve it with 86.6%
 - Intermediate: 16 x 16 tiles with 40 mines. The AI agent can solve it with 82.6%
 - Expert: 16 x 30 tiles with 99 mines. The AI agent can solve it with 30.3%
 The success rates are determined by testing with 1000 random boards for each difficulty.
 
+<img src="/images/image.jpg" width="80%">
 
 ## How it works
 
